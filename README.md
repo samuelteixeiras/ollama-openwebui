@@ -1,3 +1,6 @@
+Video about it:
+https://www.youtube.com/watch?v=xk4fBtWqPuk
+
 # ollama-openwebui
 ollama and openwebui using docker
 
