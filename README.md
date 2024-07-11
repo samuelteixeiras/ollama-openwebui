@@ -1,6 +1,11 @@
 Video about it:
 https://www.youtube.com/watch?v=xk4fBtWqPuk
 
+To alternate to other branch after clone do:
+```
+git switch ollama-openwebui
+```
+
 # ollama-openwebui
 ollama and openwebui using docker
 
